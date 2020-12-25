@@ -14,7 +14,7 @@ Pode-se dizer que a Regressão Logística é um caso de uma Shallow Neural Netwo
 
 <h1 align="center">
 <br>
-  <img src=https://github.com/ViniciusRubens/Deep-Neural-Network/blob/main/Images/Deep%20neural%20network%20model.png alt="DEEP NEURAL NETWORK" width="350">
+  <img src=https://github.com/ViniciusRubens/Deep-Neural-Network/blob/main/Images/Deep%20neural%20network%20model.png alt="DEEP NEURAL NETWORK" width="350" heigth = "250">
 <br>
 </h1>
 

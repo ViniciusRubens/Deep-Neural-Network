@@ -14,7 +14,7 @@ Pode-se dizer que a Regressão Logística é um caso de uma Shallow Neural Netwo
 
 <h1 align="center">
 <br>
-  <img src=https://github.com/ViniciusRubens/Shalow-Neural-Network/blob/main/images/model_example.png alt="SHALOW NEURAL NETWORK" width="300">
+  <img src=https://github.com/ViniciusRubens/Deep-Neural-Network/blob/main/Images/Deep%20neural%20network%20model.png alt="DEEP NEURAL NETWORK" width="300">
 <br>
 </h1>
 
@@ -24,9 +24,15 @@ Os valores que são transmitidos entre as diferentes camadas são chamados de va
 Each layer is associated with parameters W and b, which will be updated according to Forward and Backward propagation, decreasing the value of the Cost Function, improving the accuracy and precision of the project.
 </P>
 
-<h1 align="center">
+<h1 align="left">
 <br>
-  <img src=https://github.com/ViniciusRubens/Shalow-Neural-Network/blob/main/images/Calculus.png alt="SHALOW NEURAL NETWORK" width="300">
+  <img src=https://github.com/ViniciusRubens/Deep-Neural-Network/blob/main/Images/sequence.png alt="DEEP NEURAL NETWORK" width="300">
+<br>
+</h1>
+
+<h1 align="right">
+<br>
+  <img src=https://github.com/ViniciusRubens/Deep-Neural-Network/blob/main/Images/calculus.png alt="DEEP NEURAL NETWORK" width="300">
 <br>
 </h1>
 

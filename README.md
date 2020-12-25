@@ -9,7 +9,7 @@ DEEP NEURAL NETWORK
 <p align="justify">
 My project is based on the development of a machine learning using the concepts of Deep Neural Network. 
 
-Shalow Neural Networks are simplified and didactic representations of Deep Neural Networks that are more complex.In this project, the input characteristics are taken from the processed images for both testing and training, and they are vertically stacked on the Input Layer, of index 0. Each of these characteristics will be linked by neurons responsible for the calculations for pattern recognition, which we will call the Hidden Layer, of index 1. Finally, the result of our prediction is obtained on the Output Layer, of index 2, which has a single node, which can be 0 or 1.
+Pode-se dizer que a Regressão Logística é um caso de uma Shallow Neural Network, enquanto que uma Deep Neural Network são redes que possuem um número muito maior de camadas ocultas. Cada Camada Oculta é dotada de um número de neurônios determinado pelo projetista. A Camada de Entrada permanece com o número de neurônios correspondendo ao vetor característica que foi obtido no processamento das iamgens, e como esse projeto se trata de uma classificação binário de 0 para gatos e 1 para cachorros, a Camada de Saída permanece com um único neurônio.
 </p>
 
 <h1 align="center">
@@ -19,7 +19,7 @@ Shalow Neural Networks are simplified and didactic representations of Deep Neura
 </h1>
 
 <p align="justify">
-The values that the different layers are transmitting are called Activation Values, which will be stored in matrices called A in this project. In this case, the Hidden Layer activations are the values stored in A1, while the Output Layer results are stored in A2.
+Os valores que são transmitidos entre as diferentes camadas são chamados de valores de ativação e são armazenados na matriz denominada de AL neste projeto. Como se trata de um modelo com L camadas, tanto a Forward como Backward propagation passam por cada camada através de incrementos e decrementos em laços de repetição for. 
 
 Each layer is associated with parameters W and b, which will be updated according to Forward and Backward propagation, decreasing the value of the Cost Function, improving the accuracy and precision of the project.
 </P>

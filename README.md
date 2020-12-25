@@ -24,10 +24,11 @@ Os valores que são transmitidos entre as diferentes camadas são chamados de va
 Each layer is associated with parameters W and b, which will be updated according to Forward and Backward propagation, decreasing the value of the Cost Function, improving the accuracy and precision of the project.
 </P>
 
-<h1 align="left">
+<h1 align="center">
 <br>
   <img src=https://github.com/ViniciusRubens/Deep-Neural-Network/blob/main/Images/sequence.png alt="DEEP NEURAL NETWORK" width="200">
-  <img src=https://github.com/ViniciusRubens/Deep-Neural-Network/blob/main/Images/calculus.png alt="DEEP NEURAL NETWORK" width="350">
+                    
+  <img src=https://github.com/ViniciusRubens/Deep-Neural-Network/blob/main/Images/calculus.png alt="DEEP NEURAL NETWORK" width="300">
 <br>
 </h1>
 

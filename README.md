@@ -27,9 +27,7 @@ Each layer is associated with parameters W and b, which will be updated accordin
 <h1 align="left">
 <br>
   <img src=https://github.com/ViniciusRubens/Deep-Neural-Network/blob/main/Images/sequence.png alt="DEEP NEURAL NETWORK" width="300">
-<br>
 <h1 align="right">
-<br>
   <img src=https://github.com/ViniciusRubens/Deep-Neural-Network/blob/main/Images/calculus.png alt="DEEP NEURAL NETWORK" width="300">
 <br>
 </h1>

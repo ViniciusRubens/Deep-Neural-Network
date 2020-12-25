@@ -34,7 +34,7 @@ Each layer is associated with parameters W and b, which will be updated accordin
 </h1>
 
 <p align="justify">
-Moreover, it is important to note that this project is a Shalow Neural Network model for study and knowledge of how machine learning works for simple situations, without using mechanisms and frameworks, which would have a more significant efficiency, but which is not the goal in this work. This can be seen, by the uses of various functions of calculations such as Sigmoide, Cost Function, Forward Propagation and Backward Propagation.
+Moreover, it is important to note that this project is a Deep Neural Network model for study and knowledge of how machine learning works for simple situations, without using mechanisms and frameworks, which would have a more significant efficiency, but which is not the goal in this work. This can be seen, by the uses of various functions of calculations such as RELU and Sigmoid (Activation Function for Output Layer), Cost Function, Forward Propagation and Backward Propagation.
 
 Thanks, and enjoy.
 
